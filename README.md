@@ -6,10 +6,11 @@ The aim of this challenge was to display some customer data obtained from a spre
 
 ## Requirements:
 
-Python v3.7.10
-Django v2.2.5
-Pandas v1.3.0
-openpyxl v3.0.7
+- Python v3.7.10
+- Django v2.2.5
+- Pandas v1.3.0
+- openpyxl v3.0.7
+- Any up to date web browser which is able to interpret modern JavaScript (ES6)
 
 ## Running the App
 
