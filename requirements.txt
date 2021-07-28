@@ -1,0 +1,11 @@
+Requirements:
+
+Python v3.7.10
+Django v2.2.5
+Pandas v1.3.0
+openpyxl v3.0.7
+
+- Ensure you have the above software versions installed. 
+- Once installed, run `python manage.py runserver` in the root directory
+- Click the "Get Data" button
+- The requested customer data should now be rendered on the screen
